@@ -89,7 +89,7 @@
   gap: 10px;
 }
 
-.box1{
+.flex-color-box{
   background: #00bbdd;
   color: #fff;
   width: 65px;
@@ -98,7 +98,7 @@
   text-align: center;
 }
 
-.g-box1{
+.grid-color-box{
   background: #00bbdd;
   color: #fff;
   padding: 10px;
